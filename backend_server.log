@@ -1,0 +1,69 @@
+Server running on port 5000
+Error: SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)
+    at JSON.parse (<anonymous>)
+    at parse (/workspaces/Bawco-Holiday-tracker/node_modules/body-parser/lib/types/json.js:92:19)
+    at /workspaces/Bawco-Holiday-tracker/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at invokeCallback (/workspaces/Bawco-Holiday-tracker/node_modules/raw-body/index.js:238:16)
+    at done (/workspaces/Bawco-Holiday-tracker/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/workspaces/Bawco-Holiday-tracker/node_modules/raw-body/index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  expose: true,
+  statusCode: 400,
+  status: 400,
+  body: '{\\"email\\":\\"e2e@example.com\\",\\"password\\":\\"password123\\"}',
+  type: 'entity.parse.failed'
+}
+Error: SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)
+    at JSON.parse (<anonymous>)
+    at parse (/workspaces/Bawco-Holiday-tracker/node_modules/body-parser/lib/types/json.js:92:19)
+    at /workspaces/Bawco-Holiday-tracker/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at invokeCallback (/workspaces/Bawco-Holiday-tracker/node_modules/raw-body/index.js:238:16)
+    at done (/workspaces/Bawco-Holiday-tracker/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/workspaces/Bawco-Holiday-tracker/node_modules/raw-body/index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  expose: true,
+  statusCode: 400,
+  status: 400,
+  body: '{\\"email\\":\\"e2e@example.com\\",\\"password\\":\\"password123\\"}',
+  type: 'entity.parse.failed'
+}
+Error: SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)
+    at JSON.parse (<anonymous>)
+    at parse (/workspaces/Bawco-Holiday-tracker/node_modules/body-parser/lib/types/json.js:92:19)
+    at /workspaces/Bawco-Holiday-tracker/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at invokeCallback (/workspaces/Bawco-Holiday-tracker/node_modules/raw-body/index.js:238:16)
+    at done (/workspaces/Bawco-Holiday-tracker/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/workspaces/Bawco-Holiday-tracker/node_modules/raw-body/index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  expose: true,
+  statusCode: 400,
+  status: 400,
+  body: '{\\"email\\":\\"e2e@example.com\\",\\"password\\":\\"password123\\"}',
+  type: 'entity.parse.failed'
+}
+Error: SyntaxError: Expected property name or '}' in JSON at position 1 (line 1 column 2)
+    at JSON.parse (<anonymous>)
+    at parse (/workspaces/Bawco-Holiday-tracker/node_modules/body-parser/lib/types/json.js:92:19)
+    at /workspaces/Bawco-Holiday-tracker/node_modules/body-parser/lib/read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:214:14)
+    at invokeCallback (/workspaces/Bawco-Holiday-tracker/node_modules/raw-body/index.js:238:16)
+    at done (/workspaces/Bawco-Holiday-tracker/node_modules/raw-body/index.js:227:7)
+    at IncomingMessage.onEnd (/workspaces/Bawco-Holiday-tracker/node_modules/raw-body/index.js:287:7)
+    at IncomingMessage.emit (node:events:519:28)
+    at endReadableNT (node:internal/streams/readable:1698:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:90:21) {
+  expose: true,
+  statusCode: 400,
+  status: 400,
+  body: '{\\"email\\":\\"e2e@example.com\\",\\"password\\":\\"password123\\"}',
+  type: 'entity.parse.failed'
+}
